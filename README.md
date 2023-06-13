@@ -2,6 +2,8 @@
 
 ### git init
 
+### git remote add orign <ssh/https repository>
+
 ### git config --global user.email "emailmu" (command ini digunakan jika belum set ssh di account github)
 
 ### git add . 
