@@ -14,7 +14,7 @@
 
 6. git push or <git push --set-upstream orign <branch>>
 
-Ubuntu
+# Ubuntu
 
 1. git init
 
