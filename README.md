@@ -12,7 +12,7 @@
 
 5. git commit -m "free text"
 
-6. git push or git push --set-upstream orign <branch>
+6. git push or git push --set-upstream orign "your branch"
 
 # Ubuntu
 
@@ -26,4 +26,4 @@
 
 5. git commit -m "free text"
 
-6. git push or git push --set-upstream orign <branch>
+6. git push or git push --set-upstream orign "your branch"
